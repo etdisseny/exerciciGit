@@ -1,2 +1,6 @@
 Primer pas exercici1 - creació al master
+
 Segon canvi a la branca master
+
+Modificació del document - desde la branch1
+
